@@ -14,6 +14,7 @@
 		027A330A1F65A0F400D139BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 027A33081F65A0F400D139BE /* LaunchScreen.storyboard */; };
 		027A33151F65A0F400D139BE /* YoupiCityTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027A33141F65A0F400D139BE /* YoupiCityTests.swift */; };
 		027A33201F65A0F400D139BE /* YoupiCityUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027A331F1F65A0F400D139BE /* YoupiCityUITests.swift */; };
+		027A332E1F65D7B100D139BE /* ViewControllerTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027A332D1F65D7B100D139BE /* ViewControllerTabBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		027A331B1F65A0F400D139BE /* YoupiCityUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YoupiCityUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		027A331F1F65A0F400D139BE /* YoupiCityUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoupiCityUITests.swift; sourceTree = "<group>"; };
 		027A33211F65A0F400D139BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		027A332D1F65D7B100D139BE /* ViewControllerTabBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerTabBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				027A33061F65A0F400D139BE /* Assets.xcassets */,
 				027A33081F65A0F400D139BE /* LaunchScreen.storyboard */,
 				027A330B1F65A0F400D139BE /* Info.plist */,
+				027A332D1F65D7B100D139BE /* ViewControllerTabBar.swift */,
 			);
 			path = YoupiCity;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				027A332E1F65D7B100D139BE /* ViewControllerTabBar.swift in Sources */,
 				027A33021F65A0F400D139BE /* ViewController.swift in Sources */,
 				027A33001F65A0F400D139BE /* AppDelegate.swift in Sources */,
 			);

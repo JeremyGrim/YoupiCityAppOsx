@@ -311,7 +311,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item 2" image="map" id="Fc0-f2-JEG"/>
+                    <tabBarItem key="tabBarItem" title="Item 2" image="marker" id="Fc0-f2-JEG"/>
                 </viewController>
             </objects>
             <point key="canvasLocation" x="3869.5999999999999" y="357.57121439280365"/>
@@ -390,10 +390,11 @@
         <image name="logo" width="431" height="103"/>
         <image name="logo_white" width="727" height="173"/>
         <image name="map" width="48" height="32"/>
+        <image name="marker" width="48" height="32"/>
         <image name="sc_default" width="375" height="667"/>
         <image name="sc_default-1" width="320" height="480"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="tix-aL-ad5"/>
+        <segue reference="9wx-1W-OMY"/>
     </inferredMetricsTieBreakers>
 </document>
